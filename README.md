@@ -5,3 +5,6 @@
  
  
  *⠀1.0 - **https://github.com/SashkinYT/tg_shop/releases/tag/b1**
+
+
+Канал разработчика: https://www.youtube.com/c/ItsSashkin
